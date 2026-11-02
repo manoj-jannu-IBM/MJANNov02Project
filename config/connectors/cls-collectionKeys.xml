@@ -2,6 +2,7 @@
 <services>
     <cloudstreamsCollectionKeys serviceName="WmCloudStreams.RestVS">
         <servicesKeys>
+            <keyDetails collectionKey="project.mjannov02.MJANNov02Project.project_mjannov02_MJANNov02Project_qwer.operations.actions:testPOST1" connectorServiceName="project.mjannov02.MJANNov02Project.project_mjannov02_MJANNov02Project_qwer.operations.actions:testPOST1"/>
             <keyDetails collectionKey="project.mjannov02.MJANNov02Project.project_mjannov02_MJANNov02Project_test1.operations.actions:testPOST1" connectorServiceName="project.mjannov02.MJANNov02Project.project_mjannov02_MJANNov02Project_test1.operations.actions:testPOST1"/>
         </servicesKeys>
     </cloudstreamsCollectionKeys>
