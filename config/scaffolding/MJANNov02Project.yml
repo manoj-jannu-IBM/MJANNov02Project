@@ -7,12 +7,36 @@ packages:
   gitUrl: https://github.com/manoj-jannu-IBM
   gitUsername: manoj-jannu-IBM
   gitBranch: main
+- name: WmCloudStreams
+  version: 12.1.0
+  wpmServer: https://packages.webmethods.io
+  wpmRegistry: licensed
 services:
 - serviceName: project.mjannov02.integrations:debugLog
   packages:
   - name: MJANNov02Project
     version: "1.0"
+  - name: WmCloudStreams
+    version: 12.1.0.0.345
+    wpmServer: https://packages.webmethods.io
+    wpmRegistry: licensed
 - serviceName: pub.flow:debugLog
   packages:
   - name: WmPublic
     version: 12.1.0.0.1322
+- serviceName: project.mjannov02.pgp.connections:PgpAccount
+  packages:
+  - name: MJANNov02Project
+    version: "1.0"
+  - name: WmCloudStreams
+    version: 12.1.0.0.345
+    wpmServer: https://packages.webmethods.io
+    wpmRegistry: licensed
+- serviceName: project.mjannov02.scheduler:debugLog
+  packages:
+  - name: MJANNov02Project
+    version: "1.0"
+  - name: WmCloudStreams
+    version: 12.1.0.0.345
+    wpmServer: https://packages.webmethods.io
+    wpmRegistry: licensed
