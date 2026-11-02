@@ -1,0 +1,7 @@
+version: "1.0"
+projectName: MJANNov02Project
+runtimes:
+- runtimeAlias: Cloud Designtime
+  assets:
+  - name: MJANNov02Project.project.mjannov02.scheduler:debugLog
+    type: scheduler
