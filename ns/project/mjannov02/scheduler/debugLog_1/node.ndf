@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="node_type">connectorAccount</value>
+  <value name="node_subtype">schedulerJob</value>
+  <value name="node_nsName">project.mjannov02.scheduler:debugLog_1</value>
+  <value name="node_pkg">MJANNov02Project</value>
+  <value name="is_public">false</value>
+  <value name="assetId">MJANNov02Project.project.mjannov02.scheduler:debugLog_1</value>
+  <value name="taskId">c6bbf7d0-d6b8-11f1-8d9c-000000000000</value>
+  <value name="description">2mins</value>
+  <value name="service">project.mjannov02.integrations:debugLog</value>
+  <value name="runAsUser">Administrator</value>
+  <value name="type">repeat</value>
+  <value name="timeFormat">12hrs</value>
+  <value name="intervalUnit">min</value>
+  <value name="start-date">2026/11/02</value>
+  <value name="start-time">17:56:00</value>
+  <value name="end-date">2026/11/02</value>
+  <value name="end-time">23:00:00</value>
+  <value name="interval">120</value>
+  <value name="timeZoneOffset">Asia/Calcutta</value>
+  <value name="doNotOverlap">false</value>
+  <value name="target">$any</value>
+  <value name="enabled">false</value>
+  <record name="node_hints" javaclass="com.wm.util.Values">
+    <value name="createdBy">abhk</value>
+    <value name="modifiedBy">abhk</value>
+    <value name="createdDate">2026-11-02T12:27:32.180107915Z</value>
+    <value name="lastModifiedDate">2026-11-02T12:27:32.180107915Z</value>
+  </record>
+</Values>
