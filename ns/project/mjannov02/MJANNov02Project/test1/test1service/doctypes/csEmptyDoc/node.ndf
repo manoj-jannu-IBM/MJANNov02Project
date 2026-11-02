@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <record name="record" javaclass="com.wm.util.Values">
+    <value name="node_nsName">project.mjannov02.MJANNov02Project.test1.test1service.doctypes:csEmptyDoc</value>
+    <value name="node_pkg">MJANNov02Project</value>
+    <value name="node_type">record</value>
+    <value name="field_type">record</value>
+    <record name="node_hints" javaclass="com.wm.util.Values">
+      <value name="createdBy">abhk</value>
+      <value name="modifiedBy">abhk</value>
+      <value name="createdDate">2026-11-02T13:27:25.684841877Z</value>
+      <value name="lastModifiedDate">2026-11-02T13:27:25.684841877Z</value>
+    </record>
+  </record>
+</Values>

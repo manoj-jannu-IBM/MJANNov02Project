@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <record name="record" javaclass="com.wm.util.Values">
+    <value name="node_type">record</value>
+    <value name="node_subtype">unknown</value>
+    <value name="node_nsName">project.mjannov02.MJANNov02Project.test1.test1service.doctypes:testPOSTresponse1</value>
+    <value name="node_pkg">MJANNov02Project</value>
+    <record name="node_hints" javaclass="com.wm.util.Values">
+      <value name="createdBy">abhk</value>
+      <value name="modifiedBy">abhk</value>
+      <value name="createdDate">2026-11-02T13:27:25.686380525Z</value>
+      <value name="lastModifiedDate">2026-11-02T13:27:25.686380525Z</value>
+    </record>
+    <value name="is_public">false</value>
+    <value name="field_type">record</value>
+    <value name="field_dim">0</value>
+    <value name="nillable">true</value>
+    <value name="form_qualified">false</value>
+    <value name="is_global">false</value>
+    <array name="rec_fields" type="record" depth="1">
+      <record javaclass="com.wm.util.Values">
+        <value name="node_type">record</value>
+        <value name="node_subtype">unknown</value>
+        <value name="is_public">false</value>
+        <value name="field_name">c</value>
+        <value name="field_type">string</value>
+        <value name="field_dim">0</value>
+        <value name="nillable">true</value>
+        <value name="form_qualified">false</value>
+        <value name="is_global">false</value>
+      </record>
+    </array>
+    <value name="modifiable">true</value>
+  </record>
+</Values>
