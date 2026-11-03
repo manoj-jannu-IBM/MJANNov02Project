@@ -15,18 +15,19 @@
   <null name="replication_services"/>
   <record name="requires" javaclass="com.wm.util.Values">
     <value name="WmCloudStreams">12.1.0</value>
+    <value name="DebugThirdPartyPackage">1.0</value>
   </record>
   <null name="lazy_load_node_types"/>
   <null name="listACL"/>
   <value name="webappLoad">yes</value>
   <value name="reloadWithDependentPackage">yes</value>
-  <value name="build">17</value>
+  <value name="build">20</value>
   <null name="description"/>
   <value name="created_date">02-11-2026 11:35:14 GMT</value>
   <null name="extendedProperties"/>
   <value name="target_server_version">12.1.0.0</value>
   <value name="isProjectPackage">true</value>
-  <value name="lastUpdated">2026-11-02T13:29:10.292100934Z</value>
+  <value name="lastUpdated">2026-11-03T09:02:00.124992038Z</value>
   <value name="creator">Abhishek Kumar</value>
   <null name="publisher"/>
 </Values>

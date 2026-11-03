@@ -11,6 +11,11 @@ packages:
   version: 12.1.0
   wpmServer: https://packages.webmethods.io
   wpmRegistry: licensed
+- name: DebugThirdPartyPackage
+  gitServerName: prabhakaribm_shared
+  gitUrl: https://github.com/prabhakaribm
+  gitUsername: prabhakaribm
+  gitBranch: main
 services:
 - serviceName: project.mjannov02.integrations:PGP
   packages:
