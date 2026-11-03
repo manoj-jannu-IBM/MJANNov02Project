@@ -4,6 +4,7 @@
         <servicesKeys>
             <keyDetails collectionKey="project.mjannov02.MJANNov02Project.project_mjannov02_MJANNov02Project_qwer.operations.actions:testPOST1" connectorServiceName="project.mjannov02.MJANNov02Project.project_mjannov02_MJANNov02Project_qwer.operations.actions:testPOST1"/>
             <keyDetails collectionKey="project.mjannov02.MJANNov02Project.project_mjannov02_MJANNov02Project_test1.operations.actions:testPOST1" connectorServiceName="project.mjannov02.MJANNov02Project.project_mjannov02_MJANNov02Project_test1.operations.actions:testPOST1"/>
+            <keyDetails collectionKey="project.mjannov02.WmSalesforceRESTProvider.com_webmethods_cloudstreams_salesforce_rest_v60.operations.actions:SIQASFOAuthRestAction" connectorServiceName="project.mjannov02.WmSalesforceRESTProvider.com_webmethods_cloudstreams_salesforce_rest_v60.operations.actions:SIQASFOAuthRestAction"/>
         </servicesKeys>
     </cloudstreamsCollectionKeys>
     <cloudstreamsCollectionKeys serviceName="WmCloudStreams.SoapVS">
