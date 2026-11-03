@@ -16,6 +16,11 @@ packages:
   gitUrl: https://github.com/prabhakaribm
   gitUsername: prabhakaribm
   gitBranch: main
+- name: SIQACloudStreamsTests
+  gitServerName: SIQAShared
+  gitUrl: https://github.com/manoj-jannu-IBM
+  gitUsername: manoj-jannu-IBM
+  gitBranch: main
 services:
 - serviceName: project.mjannov02.integrations:PGP
   packages:
