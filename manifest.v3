@@ -17,18 +17,19 @@
     <value name="WmCloudStreams">12.1.0</value>
     <value name="DebugThirdPartyPackage">1.0</value>
     <value name="SIQACloudStreamsTests">1.0</value>
+    <value name="SIQAJDBCAdapterTests">1.0</value>
   </record>
   <null name="lazy_load_node_types"/>
   <null name="listACL"/>
   <value name="webappLoad">yes</value>
   <value name="reloadWithDependentPackage">yes</value>
-  <value name="build">21</value>
+  <value name="build">22</value>
   <null name="description"/>
   <value name="created_date">02-11-2026 11:35:14 GMT</value>
   <null name="extendedProperties"/>
   <value name="target_server_version">12.1.0.0</value>
   <value name="isProjectPackage">true</value>
-  <value name="lastUpdated">2026-11-03T09:03:07.000631797Z</value>
+  <value name="lastUpdated">2026-11-03T09:03:43.896165273Z</value>
   <value name="creator">Abhishek Kumar</value>
   <null name="publisher"/>
 </Values>
