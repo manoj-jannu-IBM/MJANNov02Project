@@ -174,6 +174,62 @@ services:
   packages:
   - name: WmPublic
     version: 12.1.0.0.1322
+- serviceName: project.mjannov02.integrations:SFBasicAuthSoap
+  packages:
+  - name: MJANNov02Project
+    version: "1.0"
+  - name: WmCloudStreams
+    version: 12.1.0.0.345
+    wpmServer: https://packages.webmethods.io
+    wpmRegistry: licensed
+  - name: DADA_ExtendedProperty
+    version: "1.0"
+  - name: DebugThirdPartyPackage
+    version: "1.0"
+  - name: DADA_GlobalVariable1
+    version: "1.0"
+  - name: SIQAJDBCAdapterTests
+    version: "1.0"
+  - name: WmSalesforceProvider
+    version: 12.0.0.0.25
+  - name: WmJDBCAdapter
+    version: 10.3.0.0.34
+    wpmServer: https://packages.webmethods.io
+    wpmRegistry: licensed
+  - name: SIQACloudStreamsTests
+    version: "1.0"
+  - name: DADA_RefDataDocTypeTests
+    version: "1.0"
+  - name: DADA_SSLJMS
+    version: "1.0"
+- serviceName: project.mjannov02.WmSalesforceProvider.com_webmethods_cloudstreams_salesforce_v53.operations.actions:SIQASFBasicAuthAction
+  packages:
+  - name: MJANNov02Project
+    version: "1.0"
+  - name: WmCloudStreams
+    version: 12.1.0.0.345
+    wpmServer: https://packages.webmethods.io
+    wpmRegistry: licensed
+  - name: DADA_ExtendedProperty
+    version: "1.0"
+  - name: DebugThirdPartyPackage
+    version: "1.0"
+  - name: DADA_GlobalVariable1
+    version: "1.0"
+  - name: SIQAJDBCAdapterTests
+    version: "1.0"
+  - name: WmSalesforceProvider
+    version: 12.0.0.0.25
+  - name: WmJDBCAdapter
+    version: 10.3.0.0.34
+    wpmServer: https://packages.webmethods.io
+    wpmRegistry: licensed
+  - name: SIQACloudStreamsTests
+    version: "1.0"
+  - name: DADA_RefDataDocTypeTests
+    version: "1.0"
+  - name: DADA_SSLJMS
+    version: "1.0"
 - serviceName: project.mjannov02.integrations:debugLog
   packages:
   - name: MJANNov02Project
