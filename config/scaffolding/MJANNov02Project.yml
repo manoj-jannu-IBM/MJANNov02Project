@@ -17,12 +17,6 @@ packages:
   gitUrl: https://github.com/prabhakaribm
   gitUsername: prabhakaribm
   gitBranch: main
-- name: SIQACloudStreamsTests
-  version: "1.0"
-  gitServerName: SIQAShared
-  gitUrl: https://github.com/manoj-jannu-IBM
-  gitUsername: manoj-jannu-IBM
-  gitBranch: main
 - name: SIQAJDBCAdapterTests
   version: "1.0"
   gitServerName: SIQAShared
@@ -65,6 +59,12 @@ packages:
   version: 10.3.0.0.34
   wpmServer: https://packages.webmethods.io
   wpmRegistry: licensed
+- name: SIQACloudStreamsTests
+  version: "1.0"
+  gitServerName: SIQAShared
+  gitUrl: https://github.com/manoj-jannu-IBM
+  gitUsername: manoj-jannu-IBM
+  gitBranch: sag_webmethods
 services:
 - serviceName: project.mjannov02.MJANNov02Project.project_mjannov02_MJANNov02Project_qwer.operations.actions:testPOST1
   packages:

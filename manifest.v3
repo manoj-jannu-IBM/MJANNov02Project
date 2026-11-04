@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <Values version="2.0">
-  <value name="enabled">yes</value>
+  <value name="enabled">no</value>
   <value name="lazy_load">yes</value>
   <value name="system_package">no</value>
   <value name="version">1.0</value>
@@ -16,7 +16,6 @@
   <record name="requires" javaclass="com.wm.util.Values">
     <value name="WmCloudStreams">12.1.0</value>
     <value name="DebugThirdPartyPackage">1.0</value>
-    <value name="SIQACloudStreamsTests">1.0</value>
     <value name="SIQAJDBCAdapterTests">1.0</value>
     <value name="DADA_GlobalVariable1">1.0</value>
     <value name="DADA_RefDataDocTypeTests">1.0</value>
@@ -25,18 +24,19 @@
     <value name="WmSalesforceProvider">12.0.0.0.25</value>
     <value name="WmSalesforceRESTProvider">12.0.0.0.26</value>
     <value name="WmJDBCAdapter">10.3.0.0.34</value>
+    <value name="SIQACloudStreamsTests">1.0</value>
   </record>
   <null name="lazy_load_node_types"/>
   <null name="listACL"/>
   <value name="webappLoad">yes</value>
   <value name="reloadWithDependentPackage">yes</value>
-  <value name="build">69</value>
+  <value name="build">71</value>
   <null name="description"/>
   <value name="created_date">02-11-2026 11:35:14 GMT</value>
   <null name="extendedProperties"/>
   <value name="target_server_version">12.1.0.0</value>
   <value name="isProjectPackage">true</value>
-  <value name="lastUpdated">2026-11-04T11:26:25.699640039Z</value>
+  <value name="lastUpdated">2026-11-04T13:32:21.268621757Z</value>
   <value name="creator">Abhishek Kumar</value>
   <null name="publisher"/>
 </Values>
