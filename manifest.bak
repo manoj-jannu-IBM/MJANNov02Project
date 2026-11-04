@@ -15,18 +15,28 @@
   <null name="replication_services"/>
   <record name="requires" javaclass="com.wm.util.Values">
     <value name="WmCloudStreams">12.1.0</value>
+    <value name="DebugThirdPartyPackage">1.0</value>
+    <value name="SIQACloudStreamsTests">1.0</value>
+    <value name="SIQAJDBCAdapterTests">1.0</value>
+    <value name="DADA_GlobalVariable1">1.0</value>
+    <value name="DADA_RefDataDocTypeTests">1.0</value>
+    <value name="DADA_SSLJMS">1.0</value>
+    <value name="DADA_ExtendedProperty">1.0</value>
+    <value name="WmSalesforceProvider">12.0.0.0.25</value>
+    <value name="WmSalesforceRESTProvider">12.0.0.0.26</value>
+    <value name="WmJDBCAdapter">10.3.0.0.34</value>
   </record>
   <null name="lazy_load_node_types"/>
   <null name="listACL"/>
   <value name="webappLoad">yes</value>
   <value name="reloadWithDependentPackage">yes</value>
-  <value name="build">10</value>
+  <value name="build">57</value>
   <null name="description"/>
   <value name="created_date">02-11-2026 11:35:14 GMT</value>
   <null name="extendedProperties"/>
   <value name="target_server_version">12.1.0.0</value>
   <value name="isProjectPackage">true</value>
-  <value name="lastUpdated">2026-11-02T13:27:26.239678507Z</value>
+  <value name="lastUpdated">2026-11-04T07:28:58.006700388Z</value>
   <value name="creator">Abhishek Kumar</value>
   <null name="publisher"/>
 </Values>

@@ -22,7 +22,7 @@
   <value name="timeZoneOffset">Asia/Calcutta</value>
   <value name="doNotOverlap">false</value>
   <value name="target">$any</value>
-  <value name="enabled">false</value>
+  <value name="enabled">true</value>
   <record name="node_hints" javaclass="com.wm.util.Values">
     <value name="createdBy">abhk</value>
     <value name="modifiedBy">abhk</value>
